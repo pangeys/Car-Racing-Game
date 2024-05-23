@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Racing Game!", "Car Racing Game!.csproj", "{FC19E1EC-DACC-4BBD-919C-5C63C3CB5067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "welcomeForm", "..\welcomeForm\welcomeForm.csproj", "{557591BF-7A3E-47B2-BAD6-587EDACCBB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC19E1EC-DACC-4BBD-919C-5C63C3CB5067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC19E1EC-DACC-4BBD-919C-5C63C3CB5067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC19E1EC-DACC-4BBD-919C-5C63C3CB5067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC19E1EC-DACC-4BBD-919C-5C63C3CB5067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557591BF-7A3E-47B2-BAD6-587EDACCBB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557591BF-7A3E-47B2-BAD6-587EDACCBB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557591BF-7A3E-47B2-BAD6-587EDACCBB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557591BF-7A3E-47B2-BAD6-587EDACCBB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE09AB2F-AE24-41B8-B85C-74B980CE89BB}
+	EndGlobalSection
+EndGlobal
